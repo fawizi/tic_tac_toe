@@ -1,7 +1,7 @@
-const tile = document.querySelectorAll(".tile");
-const PLAYER_X = "X";
-const PLAYER_O = "O";
-let turn = PLAYER_X;
+// const tile = document.querySelectorAll(".tile");
+// const PLAYER_X = "X";
+// const PLAYER_O = "O";
+// let turn = PLAYER_X;
 
 const boardState = Array(tiles.lenght);
 boardState.fill(null);
